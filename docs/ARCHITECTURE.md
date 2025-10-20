@@ -369,7 +369,7 @@ sequenceDiagram
 
 ```mermaid
 graph TB
-    subgraph "CDN"
+    subgraph "Content Delivery Network"
         CDN[CloudFront/CloudFlare]
     end
     
